@@ -1,0 +1,20 @@
+{
+  "name": "hexo-post-replace",
+  "version": "0.0.1",
+  "description": "A plugin for Hexo, which helps to replace words in the posts.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sukwants/hexo-post-replace.git"
+  },
+  "keywords": [
+    "Hexo",
+    "filter"
+  ],
+  "author": "Sukwants",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sukwants/hexo-post-replace/issues"
+  },
+  "homepage": "https://github.com/Sukwants/hexo-post-replace#readme"
+}
